@@ -16,7 +16,6 @@ files to complete all exercises:
 -> lab6_part1.ml -- Part 1: The Weather
    lab6_part2.ml -- Part 2: Binary search trees and Gorn addresses
  *)
-
 (*
                                SOLUTION
  *)
@@ -50,7 +49,7 @@ type season = Spring | Summer | Autumn | Winter
 Exercise 2: Define a type providing the weather condition
 
 For our purposes, there are three weather conditions -- sunny, rainy,
-and snowing. Each condition (except for "sunny", of course) has an
+and snowy. Each condition (except for "sunny", of course) has an
 associated precipitation amount, an integer specifying the
 precipitation in millimeters.
 

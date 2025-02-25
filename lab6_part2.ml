@@ -3,14 +3,19 @@
      Variants, algebraic types, and pattern matching (continued)
 
 In this lab, you will continue to use algebraic data types to create
-several data structures. You'll model residential address information,
-and work with a specific type of binary tree, the *binary search
-tree*, which allows for efficient storage and search of ordered
-information. A particular application is the use of Gorn addresses,
-named after the early computer pioneer Saul Gorn of University of
-Pennsylvania, who invented the technique.
- *)
+several data structures. You'll create a data structure for storing
+weather information and work with a specific type of binary tree, the
+*binary search tree*, which allows for efficient storage and search of
+ordered information. A particular application is the use of Gorn
+addresses, named after the early computer pioneer Saul Gorn of
+University of Pennsylvania, who invented the technique.
 
+There are two parts to this lab. Please refer to the following
+files to complete all exercises:
+
+   lab6_part1.ml -- Part 1: The Weather
+-> lab6_part2.ml -- Part 2: Binary search trees and Gorn addresses
+ *)
 (*
                                SOLUTION
  *)
